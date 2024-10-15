@@ -36,3 +36,7 @@ Als alles goed verbonden is dan gaat op de esp32 het blauwe ledje branden en gaa
 Het rode draadje gaat op de pin met het + teken. Dan krijgt de esp32 voeding. Die zou ik loshalen als de Roomba aan het laadstation gaat. Dat is namelijk een veel hoger voltage dan de batterij spanning.
 
  
+
+
+Other solutions:
+https://github.com/pkyanam/ArduRoomba
